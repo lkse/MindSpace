@@ -1,0 +1,177 @@
+[02:40:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:40:52] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[02:40:53] [Worker-Main-2/INFO]: Loaded 7 recipes
+[02:40:55] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[02:40:55] [Server thread/INFO]: Loading properties
+[02:40:56] [Server thread/INFO]: This server is running Paper version git-Paper-"1bc077b" (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 1bc077b on ver/1.17.1)
+[02:40:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:40:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:40:56] [Server thread/INFO]: Default game type: SURVIVAL
+[02:40:56] [Server thread/INFO]: Generating keypair
+[02:40:56] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25624
+[02:40:56] [Server thread/INFO]: Using epoll channel type
+[02:40:56] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:40:56] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:40:57] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.89
+[02:40:57] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[02:40:57] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.0
+[02:40:57] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.7.0
+[02:40:58] [Server thread/INFO]: [PistonQueueBukkit] Loading PistonQueueBukkit v2.2.0
+[02:40:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:40:58] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.89
+[02:40:59] [Server thread/INFO]:         __    
+[02:40:59] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.89
+[02:40:59] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:40:59] [Server thread/INFO]: 
+[02:40:59] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:41:00] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MARIADB]
+[02:41:00] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
+[02:41:00] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
+[02:41:01] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[02:41:01] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:41:01] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:41:01] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2448ms)
+[02:41:01] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[02:41:01] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[02:41:01] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[02:41:01] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[02:41:01] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.7.0
+[02:41:01] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[02:41:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:41:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:41:01] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[02:41:01] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[02:41:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:41:01] [Server thread/INFO]: Preparing level "world"
+[02:41:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:41:02] [Server thread/INFO]: Time elapsed: 542 ms
+[02:41:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:41:04] [Server thread/INFO]: Preparing spawn area: 0%
+[02:41:04] [Server thread/INFO]: Preparing spawn area: 0%
+[02:41:04] [Server thread/INFO]: Preparing spawn area: 0%
+[02:41:04] [Server thread/INFO]: Preparing spawn area: 0%
+[02:41:04] [Server thread/INFO]: Preparing spawn area: 0%
+[02:41:04] [Server thread/INFO]: Time elapsed: 2353 ms
+[02:41:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:41:05] [Server thread/INFO]: Preparing spawn area: 0%
+[02:41:05] [Server thread/INFO]: Preparing spawn area: 0%
+[02:41:06] [Server thread/INFO]: Preparing spawn area: 0%
+[02:41:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:41:06] [Server thread/INFO]: Time elapsed: 1757 ms
+[02:41:06] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.0
+[02:41:06] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[02:41:06] [Server thread/INFO]: [PistonQueueBukkit] Enabling PistonQueueBukkit v2.2.0
+[02:41:06] [Server thread/INFO]: [PistonQueueBukkit] PistonQueue V2.2.0
+[02:41:06] [Server thread/INFO]: [PistonQueueBukkit] Loading config
+[02:41:06] [Server thread/INFO]: [PistonQueueBukkit] Preparing server
+[02:41:06] [Server thread/INFO]: [PistonQueueBukkit] Gamerule announceAdvancements was set to false because hidePlayers was true.
+[02:41:06] [Server thread/INFO]: [PistonQueueBukkit] Looking for hooks
+[02:41:06] [Server thread/INFO]: [PistonQueueBukkit] Hooked into ProtocolLib
+[02:41:06] [Server thread/INFO]: [PistonQueueBukkit] Registering listeners
+[02:41:07] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[02:41:07] [Server thread/INFO]: Running delayed init tasks
+[02:41:07] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[02:41:07] [Server thread/INFO]: Done (11.257s)! For help, type "help"
+[02:41:07] [Server thread/INFO]: Timings Reset
+[02:41:07] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] Checking for Updates ... 
+[02:41:07] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] No new version available
+[03:33:00] [User Authenticator #1/INFO]: UUID of player Tranqii is 2f118fcb-ea8e-49d6-9e38-79be16b1d617
+[03:33:00] [Server thread/INFO]: Tranqii[/62.131.53.23:55506] logged in with entity id 276 at ([world_the_end]500.0, 256.0, 500.0)
+[03:33:28] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[03:33:28] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[03:33:29] [luckperms-command-executor/INFO]: https://luckperms.net/editor/JfdZMmIncQ
+[03:33:56] [ForkJoinPool-1-worker-37/INFO]: [LuckPerms] [Messaging] Sending log with id: d1d6d779-c5b4-412e-8b0b-8d03c3ba8a6b
+[03:33:56] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to user tranqii successfully.
+[03:33:56] [luckperms-command-executor/INFO]: [LP] (1 addition and 0 deletions)
+[03:33:56] [luckperms-command-executor/INFO]: +  queue.priority (true)
+[03:33:56] [ForkJoinPool-1-worker-53/INFO]: [LuckPerms] [Messaging] Sending user ping for 'tranqii' with id: ed0f9569-6f6b-4c33-b8bb-b1258dd0e389
+[03:34:05] [luckperms-command-executor/INFO]: [LP] An update task has been requested, please wait.
+[03:34:06] [luckperms-command-executor/INFO]: [LP] Update task complete. Now attempting to push to other servers.
+[03:34:06] [ForkJoinPool-1-worker-53/INFO]: [LuckPerms] [Messaging] Sending ping with id: ee2e370e-e8a6-4da8-a9f3-3e95b946aae7
+[03:34:06] [luckperms-command-executor/INFO]: [LP] Other servers were notified via Sql Messaging successfully.
+[03:34:12] [Server thread/INFO]: Tranqii lost connection: Disconnected
+[03:34:18] [User Authenticator #2/INFO]: UUID of player Tranqii is 2f118fcb-ea8e-49d6-9e38-79be16b1d617
+[03:34:18] [Server thread/INFO]: Tranqii[/62.131.53.23:56830] logged in with entity id 277 at ([world_the_end]500.0, 256.0, 500.0)
+[03:34:45] [luckperms-command-executor/INFO]: [LP] User Sub Commands: (/lp user <user> ...)
+[03:34:45] [luckperms-command-executor/INFO]: > info
+[03:34:45] [luckperms-command-executor/INFO]: > permission
+[03:34:45] [luckperms-command-executor/INFO]: > parent
+[03:34:45] [luckperms-command-executor/INFO]: > meta
+[03:34:45] [luckperms-command-executor/INFO]: > editor
+[03:34:45] [luckperms-command-executor/INFO]: > promote - [track] [context...] [--dont-add-to-first]
+[03:34:45] [luckperms-command-executor/INFO]: > demote - [track] [context...] [--dont-remove-from-first]
+[03:34:45] [luckperms-command-executor/INFO]: > showtracks
+[03:34:45] [luckperms-command-executor/INFO]: > clear - [context...]
+[03:34:45] [luckperms-command-executor/INFO]: > clone - <user>
+[03:35:08] [luckperms-command-executor/INFO]: [LP] Permission Sub Commands: (/lp user <user> permission ...)
+[03:35:08] [luckperms-command-executor/INFO]: > info - [page] [sort mode]
+[03:35:08] [luckperms-command-executor/INFO]: > set - <node> [true|false] [context...]
+[03:35:08] [luckperms-command-executor/INFO]: > unset - <node> [context...]
+[03:35:08] [luckperms-command-executor/INFO]: > settemp - <node> [true|false] <duration> [temporary modifier] [context...]
+[03:35:08] [luckperms-command-executor/INFO]: > unsettemp - <node> [duration] [context...]
+[03:35:08] [luckperms-command-executor/INFO]: > check - <node>
+[03:35:08] [luckperms-command-executor/INFO]: > clear - [context...]
+[03:35:29] [Server thread/INFO]: Incorrect argument for command
+[03:35:29] [Server thread/INFO]: op user tranqii permission set queue.priority false<--[HERE]
+[03:35:40] [luckperms-command-executor/INFO]: [LP] Set queue.priority to false for tranqii in context global.
+[03:35:40] [ForkJoinPool-1-worker-45/INFO]: [LuckPerms] [Messaging] Sending log with id: b7a3349b-9098-498e-8015-269bad40567e
+[03:35:40] [ForkJoinPool-1-worker-59/INFO]: [LuckPerms] [Messaging] Sending user ping for 'tranqii' with id: 0f428a0a-2330-4a5d-bf14-34a08ab8f573
+[03:35:54] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:36:01] [Server thread/INFO]: Tranqii lost connection: Disconnected
+[03:36:10] [luckperms-command-executor/INFO]: [LP] Set queue.veteran to true for tranqii in context global.
+[03:36:10] [ForkJoinPool-1-worker-59/INFO]: [LuckPerms] [Messaging] Sending log with id: 0f5a673f-0d86-46ac-8fb2-e9e7455521b3
+[03:36:10] [ForkJoinPool-1-worker-37/INFO]: [LuckPerms] [Messaging] Sending user ping for 'tranqii' with id: 6a54b702-1c71-4fd5-8e60-79a9bcda355f
+[03:36:14] [User Authenticator #3/INFO]: UUID of player Tranqii is 2f118fcb-ea8e-49d6-9e38-79be16b1d617
+[03:36:14] [Server thread/INFO]: Tranqii[/62.131.53.23:58802] logged in with entity id 278 at ([world_the_end]500.0, 256.0, 500.0)
+[03:36:25] [luckperms-command-executor/INFO]: [LP] An update task has been requested, please wait.
+[03:36:25] [luckperms-command-executor/INFO]: [LP] Update task complete. Now attempting to push to other servers.
+[03:36:25] [luckperms-command-executor/INFO]: [LP] Other servers were notified via Sql Messaging successfully.
+[03:36:25] [ForkJoinPool-1-worker-37/INFO]: [LuckPerms] [Messaging] Sending ping with id: b8e4751d-47d2-4fa3-b770-02efaca84871
+[03:36:32] [Server thread/INFO]: Tranqii lost connection: Disconnected
+[03:36:34] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:36:38] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:36:46] [luckperms-command-executor/INFO]: [LP] Set queue.veteran to false for tranqii in context global.
+[03:36:46] [ForkJoinPool-1-worker-59/INFO]: [LuckPerms] [Messaging] Sending log with id: 91d70b6f-95ba-4fd0-957f-28054748a313
+[03:36:46] [ForkJoinPool-1-worker-45/INFO]: [LuckPerms] [Messaging] Sending user ping for 'tranqii' with id: ff75c0e2-8d9b-4ce9-9afb-eb055c7b3cc0
+[03:36:49] [luckperms-command-executor/INFO]: [LP] Set queue.admin to true for tranqii in context global.
+[03:36:49] [ForkJoinPool-1-worker-45/INFO]: [LuckPerms] [Messaging] Sending log with id: 437f3293-aa6b-4d76-8b18-1ed0f696311d
+[03:36:49] [ForkJoinPool-1-worker-37/INFO]: [LuckPerms] [Messaging] Sending user ping for 'tranqii' with id: 54d6d3cb-0328-4784-b51e-3758f0e754b9
+[03:36:54] [luckperms-command-executor/INFO]: [LP] An update task has been requested, please wait.
+[03:36:55] [luckperms-command-executor/INFO]: [LP] Update task complete. Now attempting to push to other servers.
+[03:36:55] [luckperms-command-executor/INFO]: [LP] Other servers were notified via Sql Messaging successfully.
+[03:36:55] [ForkJoinPool-1-worker-45/INFO]: [LuckPerms] [Messaging] Sending ping with id: 05966abc-dbd1-43fc-b5df-fcf373266ae5
+[03:37:06] [User Authenticator #3/INFO]: UUID of player Tranqii is 2f118fcb-ea8e-49d6-9e38-79be16b1d617
+[03:37:06] [Server thread/INFO]: Tranqii joined the game
+[03:37:06] [Server thread/INFO]: Tranqii[/62.131.53.23:59712] logged in with entity id 279 at ([world_the_end]500.0, 256.0, 500.0)
+[03:37:36] [luckperms-command-executor/INFO]: [LP] Set queue.admin to false for tranqii in context global.
+[03:37:36] [ForkJoinPool-1-worker-45/INFO]: [LuckPerms] [Messaging] Sending log with id: 4d31b1cf-5b71-4e9c-99ba-6d56758866e3
+[03:37:36] [ForkJoinPool-1-worker-59/INFO]: [LuckPerms] [Messaging] Sending user ping for 'tranqii' with id: 97af7321-81dd-4799-a985-b92170c6f28a
+[03:37:41] [Server thread/INFO]: Made Tranqii a server operator
+[03:37:48] [Server thread/INFO]: [Server] do /lp verbose on
+[03:37:56] [Server thread/INFO]: Tranqii issued server command: /tp verbose on
+[03:38:01] [Server thread/INFO]: Tranqii issued server command: /lp verbose on
+[03:38:15] [luckperms-command-executor/INFO]: [LP] Set queue.priority to true for tranqii in context global.
+[03:38:15] [ForkJoinPool-1-worker-45/INFO]: [LuckPerms] [Messaging] Sending log with id: 374b4944-7dbe-42b4-892e-6fdf2a6d533a
+[03:38:15] [ForkJoinPool-1-worker-59/INFO]: [LuckPerms] [Messaging] Sending user ping for 'tranqii' with id: afeca3f0-e209-4e6f-9c41-3c78e7db38ce
+[03:38:25] [luckperms-command-executor/INFO]: [LP] An update task has been requested, please wait.
+[03:38:25] [luckperms-command-executor/INFO]: [LP] Update task complete. Now attempting to push to other servers.
+[03:38:25] [ForkJoinPool-1-worker-45/INFO]: [LuckPerms] [Messaging] Sending ping with id: 93b2aaff-761b-490b-b6e0-adba535c77b5
+[03:38:25] [luckperms-command-executor/INFO]: [LP] Other servers were notified via Sql Messaging successfully.
+[03:38:32] [luckperms-command-executor/INFO]: [LP] Set queue.priority to false for tranqii in context global.
+[03:38:32] [ForkJoinPool-1-worker-37/INFO]: [LuckPerms] [Messaging] Sending log with id: a38d8854-9949-49d7-93da-27ad6317aea5
+[03:38:32] [ForkJoinPool-1-worker-59/INFO]: [LuckPerms] [Messaging] Sending user ping for 'tranqii' with id: 682b56a5-2eae-4bdc-bc13-ee74c10eb7f4
+[03:38:38] [luckperms-command-executor/INFO]: [LP] Set queue.veteran to true for tranqii in context global.
+[03:38:38] [ForkJoinPool-1-worker-45/INFO]: [LuckPerms] [Messaging] Sending log with id: a05e8acf-0b29-4771-bd41-efdf7c46d065
+[03:38:38] [ForkJoinPool-1-worker-45/INFO]: [LuckPerms] [Messaging] Sending user ping for 'tranqii' with id: f9406c99-77d3-4243-9cb2-9ca803c2fa45
+[03:38:45] [luckperms-command-executor/INFO]: [LP] Set queue.veteran to false for tranqii in context global.
+[03:38:45] [ForkJoinPool-1-worker-59/INFO]: [LuckPerms] [Messaging] Sending log with id: 6ebdd33a-9f02-4b17-bdaa-fac221b0896c
+[03:38:45] [ForkJoinPool-1-worker-59/INFO]: [LuckPerms] [Messaging] Sending user ping for 'tranqii' with id: 5e502307-26a2-4989-a7a8-ddfc0945b1c0
+[03:38:54] [luckperms-command-executor/INFO]: [LP] Set queue.admin to true for tranqii in context global.
+[03:38:54] [ForkJoinPool-1-worker-37/INFO]: [LuckPerms] [Messaging] Sending log with id: ce7e4918-519a-489d-947e-c39859fc83dd
+[03:38:54] [ForkJoinPool-1-worker-37/INFO]: [LuckPerms] [Messaging] Sending user ping for 'tranqii' with id: edea9f4f-83f7-45c2-babb-b20889fef4a6
+[03:38:58] [luckperms-command-executor/INFO]: [LP] Set queue.admin to false for tranqii in context global.
+[03:38:58] [ForkJoinPool-1-worker-59/INFO]: [LuckPerms] [Messaging] Sending log with id: 2e6a6ce0-6c4f-4314-be92-2faa7268251d
+[03:38:58] [ForkJoinPool-1-worker-37/INFO]: [LuckPerms] [Messaging] Sending user ping for 'tranqii' with id: aa61ad60-ac70-43cd-abf6-b69009ff76d7
+[03:39:06] [Server thread/INFO]: Tranqii issued server command: /lp verbose off
+[03:39:09] [Server thread/INFO]: Made Tranqii no longer a server operator
+[03:50:38] [Server thread/INFO]: Tranqii lost connection: Disconnected

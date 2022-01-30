@@ -8,3 +8,8 @@ BungeeCord Optimized
 - Plugin Reset
 //* 2022年1月29日
 + Begin Compressed File Upload
+//* 2022年1月30日
++ Finish Compressed File Upload
++ Decompress File
++ Begin Render
++ Begin Config
